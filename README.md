@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+````ruby
+MgaliViewTool::Renderer.copywrite 'Marcos Galigarcia', 'All rights reserved'
+````
 
 ## Development
 
